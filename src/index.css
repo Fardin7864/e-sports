@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mega-shadow{
+    background: linear-gradient(180deg,#1c153f,rgba(28,21,63,0) calc(100% - 1072px),#470f37);
+}
+
+.text-border{
+    color:transparent;
+    -webkit-text-stroke: 0.35vw, #be006b;
+    font-family: 'Crete Round', serif;
+}
+
+.text-p{
+    color: #be006b;
+}
+
+ul li a{
+    background: transparent !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+
+ul li a:focus{
+    background: transparent !important;
+    color: #be006b !important;
+    text-decoration: underline !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+ul li a:hover{
+    color: #be006b !important;
+}
+
+ul li a:active{
+    background: transparent !important;
+    color: #be006b !important;
+    text-decoration: underline !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+
+.menu li > details > summary:active {
+
+    color: #be006b !important;
+}
+
+.nav-c{
+    background: transparent !important;
+    color: #be006b !important;
+    text-decoration: underline !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}

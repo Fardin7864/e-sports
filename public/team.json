@@ -1,0 +1,57 @@
+[
+    {
+      "img": "https://i.ibb.co/DbcBrVp/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+      "name": "John Doe",
+      "post": "Event Coordinator",
+      "bio": "John is an experienced event coordinator with a passion for esports. He has successfully organized numerous esports tournaments and ensures that everything runs smoothly from start to finish."
+    },
+    {
+      "img": "https://i.ibb.co/r7Z6JZ1/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
+      "name": "Jane Smith",
+      "post": "Marketing Manager",
+      "bio": "Jane is our marketing guru. She specializes in promoting esports events through various channels, ensuring maximum visibility and engagement among the gaming community."
+    },
+    {
+      "img": "https://i.ibb.co/LZMX854/tim-mossholder-Pm-Pj-JSXgg-HE-unsplash.jpg",
+      "name": "Mike Johnson",
+      "post": "Technical Director",
+      "bio": "Mike is a tech wizard who handles all the technical aspects of our esports events. He ensures that the gaming setups are top-notch and free of any technical glitches."
+    },
+    {
+      "img": "https://i.ibb.co/Gn2TbY0/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+      "name": "Sarah Wilson",
+      "post": "Social Media Manager",
+      "bio": "Sarah is in charge of our social media presence. She keeps our followers engaged with exciting updates, live streams, and behind-the-scenes content."
+    },
+    {
+      "img": "https://i.ibb.co/kQVntF3/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+      "name": "David Lee",
+      "post": "Sponsorship Coordinator",
+      "bio": "David is our go-to guy for sponsorships. He works tirelessly to secure sponsorships from gaming companies and brands to support our events."
+    },
+    {
+      "img": "https://i.ibb.co/ZhBQkjn/vicky-hladynets-C8-Ta0gw-Pb-Qg-unsplash.jpg",
+      "name": "Emily Chen",
+      "post": "PR and Communication Manager",
+      "bio": "Emily manages our public relations and communications. She ensures that our esports events are well-publicized and maintains strong relationships with the media."
+    },
+    {
+      "img": "https://i.ibb.co/RzJLVh9/mubariz-mehdizadeh-t3zr-Em88ehc-unsplash.jpg",
+      "name": "Daniel Wilson",
+      "post": "Technical Support Specialist",
+      "bio": "Daniel is our technical support expert. He's always on standby to assist with any technical issues that may arise during our events."
+    },
+    {
+      "img": "https://i.ibb.co/f8Dm0mq/ayo-ogunseinde-6-W4-F62s-N-y-I-unsplash.jpg",
+      "name": "Linda Martinez",
+      "post": "Graphic Designer",
+      "bio": "Linda is responsible for creating eye-catching graphics and visuals that enhance the overall look and feel of our esports events."
+    },
+    {
+      "img": "https://i.ibb.co/5j9hDtF/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+      "name": "Robert Johnson",
+      "post": "Video Production Manager",
+      "bio": "Robert oversees video production for our events, ensuring that all matches and highlights are captured and presented in the best possible way."
+    }
+  ]
+  
