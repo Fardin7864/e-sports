@@ -72,7 +72,7 @@ const Navbar = () => {
           <img src={user?.photoURL ? user.photoURL : "https://i.ibb.co/5sBC2Hv/avatar-1295429-640.png"} alt=""  className=" w-7 h-7 rounded-full hidden md:block"/>
         <p className=" text-lg font-bold text-white hidden md:block">{name}</p>
         <button onClick={handleSignOut}  className="btn">Sign Out</button>
-      </div> || <div className="navbar-end">
+      </div> || <div className="md:navbar-end hidden md:flex">
         <Link to="/login" className="btn">Log In</Link>
         </div>
       }
